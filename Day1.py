@@ -47,6 +47,6 @@ int and float -> float
 
 divide two int -> float
 
-floor() (integer less or equal to )is same as integer division
-'''
+floor() (integer less or equal to )is same as integer division   
 
+'''
