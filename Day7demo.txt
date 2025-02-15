@@ -1,0 +1,2 @@
+I want to learn javascript tomorrow. 123 Then i will move to ReactJS 
+After that nodeJS

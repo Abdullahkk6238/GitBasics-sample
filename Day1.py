@@ -50,3 +50,18 @@ divide two int -> float
 floor() (integer less or equal to )is same as integer division   
 
 '''
+
+# if else case 
+'''
+light = input("light colour :")
+
+
+if(light=="red"):
+    print("Stop")
+elif(light=="yellow"):
+    print("look")
+elif(light=="green"):
+    print("go")
+else:
+    print("light is broken")
+'''
